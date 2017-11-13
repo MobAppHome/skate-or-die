@@ -23,3 +23,16 @@ button.coolStuffBtn {
     display: block;
     margin: auto;
 }
+
+h5.modal-title {
+    margin: auto;
+    display: block;
+}
+
+.modal-header button.collStuffModalCloseX {
+    margin-left: 0;
+}
+
+.modalFormWrapper {
+    padding: 2rem;
+}
